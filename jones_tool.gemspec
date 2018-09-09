@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{first gem}
   spec.description   = %q{just for testing }
-  spec.homepage      = "no url"
+  spec.homepage      = "https://github.com/MC-Chung/jones_tool"
   spec.license       = "MIT"
 
   # Specify which files should be added to the gem when it is released.
